@@ -25,7 +25,7 @@ These programs are commonly used in beginner-level coding exercises and help und
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/PRINCI007/star-pattern-java.git
+   git clone 
    cd star-pattern-java
 
 
