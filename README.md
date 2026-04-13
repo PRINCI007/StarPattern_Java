@@ -27,5 +27,14 @@ These programs are commonly used in beginner-level coding exercises and help und
    ```bash
    git clone https://github.com/PRINCI007/StarPattern_Java.git
    cd StarPattern_Java
+<pre>
+
+
+  
+</pre>
+Certain files like Hollow matrix , i have added here with the simplest approach. <br>
+The focus for now is to find the logic to build the approach.
+
+   
 
 
